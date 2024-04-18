@@ -1,2 +1,2 @@
 PYTHON 
-ejerciciosa, clases y teoria
+ejercicios, clases y teoria
